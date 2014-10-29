@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Soul On the Road]]></title>
+  <link href="http://soulontheroad.herokuapp.com/atom.xml" rel="self"/>
+  <link href="http://soulontheroad.herokuapp.com/"/>
+  <updated>2014-10-28T23:27:45-04:00</updated>
+  <id>http://soulontheroad.herokuapp.com/</id>
+  <author>
+    <name><![CDATA[NYEIN CHAN KYAW]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://soulontheroad.herokuapp.com/blog/2014/10/28/hello-world/"/>
+    <updated>2014-10-28T22:09:10-04:00</updated>
+    <id>http://soulontheroad.herokuapp.com/blog/2014/10/28/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello Everyone! This is Nyeinchan Kyaw.</p>
+]]></content>
+  </entry>
+  
+</feed>
