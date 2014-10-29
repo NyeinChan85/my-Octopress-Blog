@@ -1,4 +1,4 @@
-### This is My Octopress blog at http://www.soulontheroad.herokuapp.com
+### This is My Octopress blog at http://soulontheroad.herokuapp.com/
 
 ## What is Octopress?
 
